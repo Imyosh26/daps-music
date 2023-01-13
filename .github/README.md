@@ -54,11 +54,11 @@ curl -fssL https://deb.nodesource.com/setup_17.x | sudo -E bash - && sudo apt-ge
 ```
 - cloning repository
 ```sh
-git clone https://github.com/damsyx/ZetsuMusic
+git clone https://github.com/Imyosh26/daps-music
 ```
 - ubah direktori.
 ```sh
-cd ZetsuMusic
+cd daps-music
 ```
 - install requirements
 ```sh
